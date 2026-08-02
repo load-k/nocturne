@@ -1,0 +1,20 @@
+Syntax Highlighting (pastel):
+
+Name: Lilac
+Id: shubham-saudolla.lilac
+Description: A dark theme with pretty pastel colours.
+Version: 1.2.7
+Publisher: shubham-saudolla
+VS Marketplace Link: https://open-vsx.org/vscode/item?itemName=shubham-saudolla.lilac
+
+Admiration-needing me:
+- Adding some more syntax support stuff.
+
+Everything else:
+
+Name: Purple Void
+Id: Rej.purpleVoid
+Description: Black theme with purple accents.
+Version: 1.0.3
+Publisher: Rej
+VS Marketplace Link: https://open-vsx.org/vscode/item?itemName=Rej.purpleVoid

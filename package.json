@@ -1,0 +1,38 @@
+{
+  "name": "nocturne",
+  "displayName": "nocturne",
+  "description": "dark-purple theme with pastel syntax-highlighting.",
+  "version": "1.0.0",
+  "publisher": "none",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "amoled",
+    "oled",
+    "purple",
+    "theme",
+    "pastel",
+    "nocturne",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nocturne",
+        "uiTheme": "vs-dark",
+        "path": "themes/nocturne-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/load-k/nocturne"
+  }
+}
